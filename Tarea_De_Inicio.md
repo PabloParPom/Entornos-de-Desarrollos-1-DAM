@@ -6,5 +6,11 @@
 
 ## ¿Qué es Copilot?
 
-Microsoft **Copilot** es un asistente conversacional de *inteligencia artificial* creado por Microsoft, pudiendo ayudar en lo siguiente.
+Microsoft **Copilot** es un asistente conversacional de *inteligencia artificial* creado por Microsoft, pudiendo realizar lo siguiente.
 
+- Generación de texto: Escribe correos, resúmenes a partir de tus indicaciones
+- Generación de imágenes: Genera imágenes desde cero usando descripciones detalladas
+- Búsqueda avanzada: Busca información actualizada en internet
+- Análisis multimodal: Lee y traduce texto de imagenes o documentos en PDF
+
+![Imagen Microsoft No Funciona](img/Microsoft.png)
