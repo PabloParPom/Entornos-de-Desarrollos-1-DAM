@@ -1,4 +1,4 @@
-\# Tarea de Inicio
+# Tarea de Inicio
 
 ## Que es GitHub
 
